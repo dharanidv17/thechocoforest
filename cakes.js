@@ -68,7 +68,7 @@ function openCakeModal(cakeId) {
     const whatsappLink = document.getElementById('modalWhatsAppLink');
     if (whatsappLink) {
         const message = encodeURIComponent(`Hi The Choco Forest 🍫✨ I would like to order ${cake.name}! Could you please share the price details?`);
-        whatsappLink.href = `https://wa.me/919962649498?text=${message}`;
+        whatsappLink.href = `https://wa.me/919789781774?text=${message}`;
     }
     
     modal.show();
