@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "name": "Chocolate Delight",
+        "description": "A rich, moist chocolate cake layered with velvety chocolate ganache and topped with premium chocolate shavings.",
+        "image": "assets/Screenshot 2025-12-30 200233.png"
+    },
+    {
+        "id": 2,
+        "name": "Red Velvet Dream",
+        "description": "Classic red velvet cake with cream cheese frosting, perfectly balanced flavors that melt in your mouth.",
+        "image": "assets/Screenshot 2025-12-30 200306.png"
+    },
+    {
+        "id": 3,
+        "name": "Vanilla Paradise",
+        "description": "Light and fluffy vanilla sponge cake with smooth vanilla buttercream and delicate decorations.",
+        "image": "assets/Screenshot 2025-12-30 200328.png"
+    },
+    {
+        "id": 4,
+        "name": "Strawberry Bliss",
+        "description": "Fresh strawberry cake with layers of real fruit and whipped cream, perfect for any celebration.",
+        "image": "assets/Screenshot 2025-12-30 200355.png"
+    },
+    {
+        "id": 5,
+        "name": "Caramel Fusion",
+        "description": "Decadent caramel cake with layers of caramel buttercream and drizzled with golden caramel sauce.",
+        "image": "assets/Screenshot 2025-12-30 200417.png"
+    },
+    {
+        "id": 6,
+        "name": "Truffle Supreme",
+        "description": "Luxurious chocolate truffle cake with dark chocolate layers and rich ganache for special occasions.",
+        "image": "assets/Screenshot 2025-12-30 200432.png"
+    },
+    {
+        "id": 7,
+        "name": "Black Forest",
+        "description": "Classic German cake with layers of chocolate sponge, cherries, and whipped cream.",
+        "image": "assets/Screenshot 2025-12-30 200445.png"
+    },
+    {
+        "id": 8,
+        "name": "Lemon Zest",
+        "description": "Refreshing lemon cake with tangy lemon curd and light lemon buttercream frosting.",
+        "image": "assets/Screenshot 2025-12-30 200459.png"
+    },
+    {
+        "id": 9,
+        "name": "Coffee Mocha",
+        "description": "Rich coffee-flavored cake with mocha buttercream and chocolate coffee beans decoration.",
+        "image": "assets/Screenshot 2025-12-30 200513.png"
+    },
+    {
+        "id": 10,
+        "name": "Rainbow Delight",
+        "description": "Colorful layered cake with vibrant rainbow colors and vanilla buttercream between each layer.",
+        "image": "assets/Screenshot 2025-12-30 200525.png"
+    },
+    {
+        "id": 11,
+        "name": "Tiramisu Dream",
+        "description": "Italian-inspired tiramisu cake with coffee-soaked layers and mascarpone cream.",
+        "image": "assets/Screenshot 2025-12-30 200536.png"
+    },
+    {
+        "id": 12,
+        "name": "Blueberry Cheesecake",
+        "description": "Creamy cheesecake with fresh blueberry topping and graham cracker crust base.",
+        "image": "assets/Screenshot 2025-12-30 200550.png"
+    },
+    {
+        "id": 13,
+        "name": "Chocolate Fudge",
+        "description": "Decadent chocolate fudge cake with layers of rich chocolate and smooth fudge frosting.",
+        "image": "assets/Screenshot 2025-12-30 200603.png"
+    },
+    {
+        "id": 14,
+        "name": "Pineapple Upside Down",
+        "description": "Classic pineapple upside-down cake with caramelized pineapple rings and cherries.",
+        "image": "assets/Screenshot 2025-12-30 200622.png"
+    },
+    {
+        "id": 15,
+        "name": "Buttercream Fantasy",
+        "description": "Elegant cake with smooth buttercream frosting and beautiful floral decorations.",
+        "image": "assets/Screenshot 2025-12-30 200637.png"
+    },
+    {
+        "id": 16,
+        "name": "Hazelnut Delight",
+        "description": "Rich hazelnut cake with layers of hazelnut cream and chocolate hazelnut spread.",
+        "image": "assets/Screenshot 2025-12-30 200650.png"
+    },
+    {
+        "id": 17,
+        "name": "Orange Cream",
+        "description": "Zesty orange cake with light cream frosting and fresh orange zest decoration.",
+        "image": "assets/Screenshot 2025-12-30 200658.png"
+    },
+    {
+        "id": 18,
+        "name": "Mint Chocolate",
+        "description": "Refreshing mint chocolate cake with layers of mint buttercream and chocolate ganache.",
+        "image": "assets/Screenshot 2025-12-30 200708.png"
+    },
+    {
+        "id": 19,
+        "name": "Coconut Paradise",
+        "description": "Tropical coconut cake with coconut cream frosting and toasted coconut flakes.",
+        "image": "assets/Screenshot 2025-12-30 200722.png"
+    },
+    {
+        "id": 20,
+        "name": "Raspberry Swirl",
+        "description": "Delicate vanilla cake with raspberry swirls and fresh raspberry buttercream.",
+        "image": "assets/Screenshot 2025-12-30 200746.png"
+    },
+    {
+        "id": 21,
+        "name": "Pistachio Dream",
+        "description": "Unique pistachio cake with pistachio cream and crushed pistachio toppings.",
+        "image": "assets/Screenshot 2025-12-30 200758.png"
+    },
+    {
+        "id": 22,
+        "name": "Banana Caramel",
+        "description": "Moist banana cake with layers of caramel and cream cheese frosting.",
+        "image": "assets/Screenshot 2025-12-30 200816.png"
+    },
+    {
+        "id": 23,
+        "name": "Cherry Blossom",
+        "description": "Beautiful cherry cake with cherry compote and light vanilla frosting.",
+        "image": "assets/Screenshot 2025-12-30 200829.png"
+    },
+    {
+        "id": 24,
+        "name": "Mango Tango",
+        "description": "Tropical mango cake with fresh mango pieces and mango cream frosting.",
+        "image": "assets/Screenshot 2025-12-30 200840.png"
+    },
+    {
+        "id": 25,
+        "name": "Almond Joy",
+        "description": "Rich almond cake with chocolate and coconut layers, topped with almonds.",
+        "image": "assets/Screenshot 2025-12-30 200852.png"
+    },
+    {
+        "id": 26,
+        "name": "Cinnamon Spice",
+        "description": "Warm cinnamon spice cake with cream cheese frosting and cinnamon sugar.",
+        "image": "assets/Screenshot 2025-12-30 200907.png"
+    },
+    {
+        "id": 27,
+        "name": "Peach Perfection",
+        "description": "Fresh peach cake with peach slices and light whipped cream frosting.",
+        "image": "assets/Screenshot 2025-12-30 200921.png"
+    },
+    {
+        "id": 28,
+        "name": "Double Chocolate",
+        "description": "Double-layered chocolate cake with chocolate chips and rich chocolate frosting.",
+        "image": "assets/Screenshot 2025-12-30 200952.png"
+    },
+    {
+        "id": 29,
+        "name": "Vanilla Bean",
+        "description": "Premium vanilla bean cake with real vanilla bean specks and buttercream.",
+        "image": "assets/Screenshot 2025-12-30 201008.png"
+    },
+    {
+        "id": 30,
+        "name": "Chocolate Raspberry",
+        "description": "Chocolate cake with fresh raspberry filling and chocolate ganache topping.",
+        "image": "assets/Screenshot 2025-12-30 201039.png"
+    }
+]
+
